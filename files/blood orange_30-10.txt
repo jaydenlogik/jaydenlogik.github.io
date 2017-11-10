@@ -1,0 +1,49 @@
+____MIX____
+PGn: 1ml
+PGf: 1ml, (20 drops)
+PG: 1.575
+VG: 7.300000000000001
+____MIX_OVERVIEW____
+PG/VG: 30%/70%
+TOTAL ml: 10.5
+FLAVOR: 5.0%
+NICOTINE: 10mg/ml
+inserted on 03/11/2017 at 01:36:00
+
+
+COMMENTS:
+(none)
+
+
+___TANK_SETTINGS___
+WATTS: 31.5
+OHMS: .44
+VOLTS: 3.69/3.73->3.51
+AMPS: 07
+inserted on 03/11/2017 at 01:37:28
+
+
+COMMENTS:
+Coil:
+	new coil, new cotton.
+	ss316l wire, cotton bacon
+	cotton thinly placed
+	(relative to my usual Driping cotton build, of course)
+
+
+
+RESULTS:
+
+Flavor:
+overall good taste, kind of feel weird towards the end of the tank. Kind of sickly and sick of the flavor. Although, the flavor itself is still "good". Not sure if i'm not USED to the PG or the flavor. I was vaping 98% VG before this so it could be that I just need to adjust. Plus, I have no idea where the nicotine level is actually at in the liquid i was using before. This is taken into consideration upon providing the trial results.
+
+Coil:
+	Coil is brown after one tank of this fluid.
+coil/variable:
+	User error?: I closed the liquid intake due to a leak and forgot to open it again at one point and vaped until I tasted it was dry, then opened the vent again. This may be the cause of the coil not lasting long
+
+Outcome:
+	Trying a new flavor for the next tank. changes will be as follows
+nictone change (+/-) 10mg/ml to (=)6mg/ml
+PG change (+/-) 30% to (=)20%
+flavor will be 'dripped' into the mixture to aproximately .5ml and drops will be counted and an average ml/drop ratio will be formed from the results for future trails.
